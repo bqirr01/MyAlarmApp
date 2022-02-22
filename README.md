@@ -1,3 +1,3 @@
 # MyAlarmApp
-- Project = 1
-- Semester = 2
+- Project : 1
+- Semester : 2
